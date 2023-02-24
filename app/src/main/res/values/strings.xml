@@ -1,0 +1,22 @@
+<resources>
+    <string name="app_name">MySYSPAD</string>
+    <string name="notification_chanel_id">myCanal</string>
+    <string name="notification_chanel_title">myTitle</string>
+    <string name="notification_chanel_desc">This is a test canal</string>
+    <string name="msg_subscribed">subscription ok</string>
+    <string name="msg_subscribe_failed">subscription failed</string>
+    <string name="msg_unsubscribed">unsubscription ok</string>
+    <string name="msg_unsubscribe_failed">unsubscription failed</string>
+    <string name="service_name">my_listenerNoti</string>
+
+    <!-- Preference Titles -->
+    <string name="notifications_header">Notifications</string>
+    <string name="web_ehpad_header">Site EHPAD</string>
+
+    <!-- Messages Preferences -->
+    <string name="canal_title">Canal d\'abonnement</string>
+    <string name="web_title">Site web de SySPAD</string>
+
+    <!-- Sync Preferences -->
+    <string name="sync_title">Activer les notifications</string>
+</resources>
